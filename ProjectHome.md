@@ -1,0 +1,1 @@
+Reittiopas(reittiopas.turku.fi) written in Java as desktop application
